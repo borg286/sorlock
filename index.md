@@ -1,3 +1,11 @@
+---
+title: The Multithreat Sorlock
+layout: post
+author: borg286
+permalink: /sorlock/
+source-id: 1VB-gvg4jFHw9Ve7NPO8p0vx9NDlxvveASu-_3edbORw
+published: true
+---
 # Guide for Multi-threat Sorlocks
 
 # Introduction
@@ -170,11 +178,7 @@ The core Coffeelock mechanic is to convert your short rest refreshing spell slot
 
 This guide is intended to show how a Divine Sorlock can be made to fill in all the roles a team needs, then use the selections below, which your team already covers, and use them for doing better at jobs you like.
 
-_
-
 # Sorcerers and the action economy
-
-_
 
 ## Baseline
 
@@ -232,11 +236,7 @@ Often this is used to turn someone into a T-Rex (Huge). A Sorcerer gets 2, which
 
 This also doubles as a preemptive and reactive healing spell. You preemptively give someone 136 temp HP. You can also reactively "heal" someone that's nearly dead, turning them into a threat rather than a risk.
 
-_
-
 # Dangers with Darkness
-
-_
 
 A common strategy with Sorlocks is to cast Darkness yet have Devil's sight. This will indeed give them protection and advantage for the cheap price of 2-3 spell points and their concentration. Sadly the drawbacks aren’t discussed.
 
@@ -250,11 +250,7 @@ A common strategy with Sorlocks is to cast Darkness yet have Devil's sight. This
 
 Lift yourself from the shackles of the extra DPR you do with advantage, and imagine the extra DPR you could do through others.
 
-_
-
 # Damage lens
-
-_
 
 ## Strikers, DPR and KPR
 
@@ -376,11 +372,7 @@ If we assume 2 targets are using attacks we get the following
 
 * Invisibility: Advantage (60% -> 84%) means 0.24 / .6 * Original KPR = added KPR / target
 
-_
-
 # Defender, a specialized battlefield controller
-
-_
 
 5th edition has opened the doors of the defender role to anyone with an attack, then lets you combine elements to suit your style rather than forcing some opinion.
 
@@ -574,11 +566,7 @@ For these reasons we stack multiple layers to not get hit, and reduce the damage
 
 * [Optional] Adamantine armor: Most monster damage is in the damage roll, not static bonuses. Crits can kill your concentration.
 
-_
-
 # Breaking down the Healer role
-
-_
 
 1. Contribute to the Battle proactively
 
@@ -636,11 +624,7 @@ Lesser/Greater Restoration are beautiful in a Sorcerer's hands as they can be tw
 
 If there is a Paladin in the party immediately drop these known spells despite his Lay on Hands being slightly weaker. Your known spell slots are spread thin as it is.
 
-_
-
 # Master Manipulator
-
-_
 
 ## Illusions
 
@@ -768,11 +752,7 @@ The crate in the middle of the battlefield seems out of place, and odd to appear
 
 * Overpay/Undercharge
 
-_
-
 # Feats
-
-_
 
 * Inspiring Leader: As mentioned in the Healer section, this shines if your team has short days. Max HP matters more than Hit Dice in those cases. This is equivalent to +2 con for the party.
 
@@ -784,15 +764,9 @@ _
 
 * Alert: Hand out those Buffs on round 1. See if you can get a Sentinel Shield before taking this feat though.
 
-_
-
 # Tier 1 (Level 1-4)
 
-_
-
 ## Level 1
-
-_
 
 Race: Yuan-Ti (+2 Cha, +1 Int)
 
@@ -884,11 +858,7 @@ Primary Attack: Poison Spray(1d12, Con save), Sleep
 
 * 120' Range
 
-_
-
 ## Level 4
-
-_
 
 Class: Sorcerer 3 / Hexblade 1
 
@@ -1060,17 +1030,9 @@ The one exception is Minor Illusion, which you have, and is an ability check tha
 
 * Wrathful Smite
 
-_
-
-_
-
 # Tier 2 (Level 5-10)
 
-_
-
 ## Player Level 5
-
-_
 
 Class: Sorcerer 3 / Hexblade 2
 
@@ -1206,11 +1168,7 @@ Averaging 6d10 damage per round @60% to hit = 19.8 DPR, 0.28 KPR + chance to tak
 
 Misty Visions(Silent Image at-will): See [The Illusionists Guide to Reality](https://www.enworld.org/threads/the-illusionists-guide-to-reality.652620/) for your new found power. Recall their crappy Intelligence check vs. your proficiency boosted DC applies here as it does to Minor Illusion. Sadly both Silent Image and Hex use your concentration.
 
-_
-
 ## Player Level 9
-
-_
 
 Class: Sorcerer 7 / Hexblade 2
 
@@ -1340,17 +1298,9 @@ Cast **Twin Greater Invisibility/Polymorph/Haste** for 4 encounters with 18 spel
 
 * Dancing Light: See Level 1 above
 
-_
-
-_
-
 # Tier 3 (Level 11-16)
 
-_
-
 ## Player Level 11
-
-_
 
 Class: Sorcerer **8** / **Hexblade 3**
 
@@ -1508,11 +1458,7 @@ Cast Twin Greater Invisibility/Polymorph/Haste for 4 encounters with 18 spell po
 
 * Dancing Light: See Level 1 above
 
-_
-
 ## Player Level 15
-
-_
 
 **See Level 11 Above but with the following changes**
 
@@ -1534,7 +1480,7 @@ Spells(Damage, Buff, Utility, Control, Protection, Heal, Defender):
 
 * 6th level: **Holy Weapon****, ****Chain Lightning**
 
-Note about Holy Weapon: See if your DM will allow Holy Weapon to be Twinned. RAW it shouldn't, but most of the buff spells can. This spell is just flavored to target the weapons rather than the creatures. If DM doesn’t agree, Holy Weapon may still be worth the slot.  You’ll need to pick the right round to blow the radiant AoE to maxiize the effects. The damage is great vs. single target. The AoE is great vs a horde which are blind thanks to you.
+Note about Holy Weapon: See if your DM will allow Holy Weapon to be Twinned. RAW it shouldn't, but most of the buff spells can. This spell is just flavored to target the weapons rather than the creatures. If DM doesn’t agree, Holy Weapon may still be worth the slot.  You’ll need to pick the right round to blow the radiant AoE to maximize the effects. The damage is great vs. single target. The AoE is great vs a horde which are blind thanks to you.
 
 Note about Chain Lighting and dropping our AoE: You still have Hypnotic Pattern and your higher level slots at this level aren't as in demand as your spell points in general. Chain Lightning scales the best in the game +10d6 for getting another target per level upcast.
 
@@ -1546,15 +1492,9 @@ Healer
 
 * Greater Restoration: Don't forget to twin this when the team gets slammed with these conditions.
 
-_
-
 # Tier 4 (Level 17-20)
 
-_
-
 ## Player Level 17
-
-_
 
 **See Level 15 Above but with the following changes**
 
@@ -1582,11 +1522,7 @@ Spells(Damage, Buff, Utility, Control, Protection, Heal, Defender):
 
 Under Construction. But with Eldritch Blast doing 4d10+16 on a hit + 24 when cursed, and you can quicken for double that, you don't need to worry about your striking potential.
 
-_
-
 ## Player Level 20
-
-_
 
 **See Level 17 Above but with the following changes**
 
@@ -1614,13 +1550,7 @@ Spells(Damage, Buff, Utility, Control, Protection, Heal, Defender):
 
 * 9th level: **Wish**
 
-_
-
-_
-
 # Sample Backstory and fluff
-
-_
 
 Yuan-ti are typically viewed as the cliche evil guys, evil motives, evil tactics, evil past and free pass to slaughter every last one of them. But I'd like to show them from a different light.
 
@@ -1673,6 +1603,4 @@ Powerful high priest of Mershaulk notice my rise to power and seek to kill me. W
 ## Plot Twist
 
 The other Serpent gods, Sseth and later Set, unable to kill Merrshaulk, create a prison forever squelching his ability to communicate with his followers (incidentally triggering the downfall of the Yaun-ti). As is common in Yaun-ti culture, powerful high priests seek to consume their god and replace him. But with the prison it instead sucks in those that get that far and one kills the other with the prison draining their Quiddity to fuel the religion. Have others come to understand the prison as well as I do? Should I seek to destroy the prison and replace him, or choose to crush the head of the religion and let the last of the Quiddity be drained away and end the cycle of futility?
-
-_
 
