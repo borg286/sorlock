@@ -1,11 +1,3 @@
----
-title: The Multithreat Sorlock
-layout: post
-author: borg286
-permalink: /sorlock/
-source-id: 1VB-gvg4jFHw9Ve7NPO8p0vx9NDlxvveASu-_3edbORw
-published: true
----
 # Guide for Multi-threat Sorlocks
 
 # Introduction
