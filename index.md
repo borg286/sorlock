@@ -1,9 +1,14 @@
-
+---
+title: The Multithreat Sorlock
+layout: post
+author: borg286
+permalink: /sorlock/
+source-id: 1VB-gvg4jFHw9Ve7NPO8p0vx9NDlxvveASu-_3edbORw
+published: true
+---
 Guide for Multi-threat Sorlocks
-======
 
 # Introduction
-======
 
 You likely know about the [Coffeelock](https://forums.giantitp.com/showthread.php?542964-Can-someone-please-explain-the-%91coffeelock%92-to-me). Xanathar's Guide to Everything gave us the Hexblade and Divine Soul.
 
@@ -16,8 +21,6 @@ This multiclass opens for many amazing builds like
 This build aims to go beyond a Jack of all trades, and be capable of filling a laundry list of jobs and shining in 4 major in and out of combat roles. Use as a base to fill in any role the team is missing.
 
 # Know your Roles
-
-======
 
 Building off of [Treantmonk's God wizard’s guide](https://docs.google.com/document/d/1IeOXWvbkmQ3nEyM2P3lS8TU4rsK6QJP0oH7HE_v67QY/edit) I start off with the roles. I’ll later dive deeper into analysis of each role and how to approach them using a Sorlock.
 
@@ -92,8 +95,6 @@ The other thing healers do out of combat is healing status effects like poisoned
 Transport, Divining, Illusions, Invisibility, Flight. With as few known spells as you have, you'll want to choose carefully, but thankfully we’ll have both the sorcerer and cleric spell list to cherry pick from. With as much overlap between Wizard - Sorcerer - Bard - Cleric, you are likely to have these bases covered. This will lift the burden from the other caster from needing to have so many utility spells prepared.
 
 # Short Summary
-
-======
 
 ## Striker
 
@@ -171,8 +172,6 @@ Transport, Divining, Illusions, Invisibility, Flight. With as few known spells a
 
 # Build versatility
 
-======
-
 Unlike the Wizard/Cleric/Bard/Druid you can reshuffle lower level slots through Spell Points and create slots that your party needs.  You can Quicken and blow your top level slots in a nova, then rebalance your slots and do it again.
 
 The core Coffeelock mechanic is to convert your short rest refreshing spell slots into persistent spell points, then again convert those into slots you need. Like the Psion of 3rd edition, you can think in terms of points to spend in the day, then keep the Sorcery Point Pool topped up for when you need to go nova. It only costs a bonus action to create the spell slot you need in the moment.
@@ -180,8 +179,6 @@ The core Coffeelock mechanic is to convert your short rest refreshing spell slot
 This guide is intended to show how a Divine Sorlock can be made to fill in all the roles a team needs, then use the selections below, which your team already covers, and use them for doing better at jobs you like.
 
 # The Action economy
-
-======
 
 ## Baseline
 
@@ -240,8 +237,6 @@ Often this is used to turn someone into a T-Rex (Huge). A Sorcerer gets 2, which
 This also doubles as a preemptive and reactive healing spell. You preemptively give someone 136 temp HP. You can also reactively "heal" someone that's nearly dead, turning them into a threat rather than a risk.
 
 # Damage lens
-
-======
 
 ## Strikers, DPR and KPR
 
@@ -378,8 +373,6 @@ A common strategy with Sorlocks is to cast Darkness yet have Devil's sight. This
 Lift yourself from the shackles of the extra DPR you do with advantage, and imagine the extra DPR you could do through others.
 
 # Defender: Focused Controller
-
-======
 
 5th edition has opened the doors of the defender role to anyone with an attack, then lets you combine elements to suit your style rather than forcing some opinion.
 
@@ -575,8 +568,6 @@ For these reasons we stack multiple layers to not get hit, and reduce the damage
 
 # Healing wisely
 
-======
-
 1. Contribute to the Battle proactively
 
 2. Prevent Death by reviving fallen allies
@@ -634,8 +625,6 @@ Lesser/Greater Restoration are beautiful in a Sorcerer's hands as they can be tw
 If there is a Paladin in the party immediately drop these known spells despite his Lay on Hands being slightly weaker. Your known spell slots are spread thin as it is.
 
 # Master Manipulator
-
-======
 
 ## Illusions
 
@@ -765,8 +754,6 @@ The crate in the middle of the battlefield seems out of place, and odd to appear
 
 # Feats
 
-======
-
 * Inspiring Leader: As mentioned in the Healer section, this shines if your team has short days. Max HP matters more than Hit Dice in those cases. This is equivalent to +2 con for the party.
 
 * Healer: Can heal more overall HP than Inspiring Leader, but does so reactively. Depending on the number of short rests this is equivalent to an extra +3-5 extra Hit Dice on long days.
@@ -778,8 +765,6 @@ The crate in the middle of the battlefield seems out of place, and odd to appear
 * Alert: Hand out those Buffs on round 1. See if you can get a Sentinel Shield before taking this feat though.
 
 # Tier 1 (Level 1-4)
-
-======
 
 ## Level 1
 
@@ -1046,8 +1031,6 @@ The one exception is Minor Illusion, which you have, and is an ability check tha
 * Wrathful Smite
 
 # Tier 2 (Level 5-10)
-
-======
 
 ## Player Level 5
 
@@ -1317,8 +1300,6 @@ Cast **Twin Greater Invisibility/Polymorph/Haste** for 4 encounters with 18 spel
 
 # Tier 3 (Level 11-16)
 
-======
-
 ## Player Level 11
 
 Class: Sorcerer **8** / **Hexblade 3**
@@ -1513,8 +1494,6 @@ Healer
 
 # Tier 4 (Level 17-20)
 
-======
-
 ## Player Level 17
 
 **See Level 15 Above but with the following changes**
@@ -1572,8 +1551,6 @@ Spells(Damage, Buff, Utility, Control, Protection, Heal, Defender):
 * 9th level: **Wish**
 
 # Sample Backstory
-
-======
 
 Yuan-ti are typically viewed as the cliche evil guys, evil motives, evil tactics, evil past and free pass to slaughter every last one of them. But I'd like to show them from a different light.
 
