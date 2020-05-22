@@ -1,15 +1,8 @@
----
-title: The Multithreat Sorlock
-layout: post
-author: borg286
-permalink: /sorlock/
-source-id: 1VB-gvg4jFHw9Ve7NPO8p0vx9NDlxvveASu-_3edbORw
-published: true
----
+
 Guide for Multi-threat Sorlocks
+======
 
 # Introduction
-
 ======
 
 You likely know about the [Coffeelock](https://forums.giantitp.com/showthread.php?542964-Can-someone-please-explain-the-%91coffeelock%92-to-me). Xanathar's Guide to Everything gave us the Hexblade and Divine Soul.
