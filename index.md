@@ -1,4 +1,12 @@
-# Guide for Multi-threat Sorlocks
+---
+title: The Multithreat Sorlock
+layout: post
+author: borg286
+permalink: /sorlock/
+source-id: 1VB-gvg4jFHw9Ve7NPO8p0vx9NDlxvveASu-_3edbORw
+published: true
+---
+Guide for Multi-threat Sorlocks
 
 # Introduction
 
@@ -162,7 +170,7 @@ Transport, Divining, Illusions, Invisibility, Flight. With as few known spells a
 
 * [Optional] Broom of Flying (uncommon, no attunement) flight that can be passed around
 
-# Build versatility and Font of Magic
+# Build versatility
 
 Unlike the Wizard/Cleric/Bard/Druid you can reshuffle lower level slots through Spell Points and create slots that your party needs.  You can Quicken and blow your top level slots in a nova, then rebalance your slots and do it again.
 
@@ -170,7 +178,7 @@ The core Coffeelock mechanic is to convert your short rest refreshing spell slot
 
 This guide is intended to show how a Divine Sorlock can be made to fill in all the roles a team needs, then use the selections below, which your team already covers, and use them for doing better at jobs you like.
 
-# Sorcerers and the action economy
+# The Action economy
 
 ## Baseline
 
@@ -227,20 +235,6 @@ Not only is this a multithread spell but the synergy of 2 targets, say a fighter
 Often this is used to turn someone into a T-Rex (Huge). A Sorcerer gets 2, which can wall off a battlefield rather than just make an avoidable danger zone. T-Rexes average 53 damage per round. Careful as the fighter likely deals more damage, so check beforehand. Casters would accept if they don't want to blow a slot that needs concentration; the T-Rex has horrible AC.
 
 This also doubles as a preemptive and reactive healing spell. You preemptively give someone 136 temp HP. You can also reactively "heal" someone that's nearly dead, turning them into a threat rather than a risk.
-
-# Dangers with Darkness
-
-A common strategy with Sorlocks is to cast Darkness yet have Devil's sight. This will indeed give them protection and advantage for the cheap price of 2-3 spell points and their concentration. Sadly the drawbacks aren’t discussed.
-
-* Casting it on yourself and rushing into melee blinds both foe and ally alike. Not fun for anyone but you.
-
-* Casting it and hiding in a corner makes that corner a prime target for AoEs.
-
-* Monsters will likely start having true sight earlier than expected.
-
-* Your concentration slot could be used for so many other things. 
-
-Lift yourself from the shackles of the extra DPR you do with advantage, and imagine the extra DPR you could do through others.
 
 # Damage lens
 
@@ -364,7 +358,21 @@ If we assume 2 targets are using attacks we get the following
 
 * Invisibility: Advantage (60% -> 84%) means 0.24 / .6 * Original KPR = added KPR / target
 
-# Defender, a specialized battlefield controller
+## Dangers with Darkness
+
+A common strategy with Sorlocks is to cast Darkness yet have Devil's sight. This will indeed give them protection and advantage for the cheap price of 2-3 spell points and their concentration. Sadly the drawbacks aren’t discussed.
+
+* Casting it on yourself and rushing into melee blinds both foe and ally alike. Not fun for anyone but you.
+
+* Casting it and hiding in a corner makes that corner a prime target for AoEs.
+
+* Monsters will likely start having true sight earlier than expected.
+
+* Your concentration slot could be used for so many other things. 
+
+Lift yourself from the shackles of the extra DPR you do with advantage, and imagine the extra DPR you could do through others.
+
+# Defender: Focused Controller
 
 5th edition has opened the doors of the defender role to anyone with an attack, then lets you combine elements to suit your style rather than forcing some opinion.
 
@@ -558,7 +566,7 @@ For these reasons we stack multiple layers to not get hit, and reduce the damage
 
 * [Optional] Adamantine armor: Most monster damage is in the damage roll, not static bonuses. Crits can kill your concentration.
 
-# Breaking down the Healer role
+# Healing wisely
 
 1. Contribute to the Battle proactively
 
@@ -1510,7 +1518,7 @@ Spells(Damage, Buff, Utility, Control, Protection, Heal, Defender):
 
 * 7th level: **Plane Shift**
 
-# Striker
+### Striker
 
 Under Construction. But with Eldritch Blast doing 4d10+16 on a hit + 24 when cursed, and you can quicken for double that, you don't need to worry about your striking potential.
 
@@ -1542,7 +1550,7 @@ Spells(Damage, Buff, Utility, Control, Protection, Heal, Defender):
 
 * 9th level: **Wish**
 
-# Sample Backstory and fluff
+# Sample Backstory
 
 Yuan-ti are typically viewed as the cliche evil guys, evil motives, evil tactics, evil past and free pass to slaughter every last one of them. But I'd like to show them from a different light.
 
